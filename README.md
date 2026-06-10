@@ -12,7 +12,9 @@ Things to remember when using information from this site:
 
 *Accessibility requirements in the United States is governed by several frameworks.  Whereas ruling are often made at the federal or state level it is useful to remember that the interpretation of these rules happens at the institutional level.*
 
-# External Resources Concerning Accessibility #
+# Resources #
+
+Please see our Discussion section and ask questions or share information that you have on this topic.
 
 ## General Guidance and Training ##
 
